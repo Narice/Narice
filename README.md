@@ -20,6 +20,6 @@ You can ask me about Elm and NixOS anytime, feel free to contact me at narice@tu
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### And here are my stats! 😉
+### My stats! 😉
 [![Narice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narice&theme=shades-of-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narice&theme=shades-of-purple&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
