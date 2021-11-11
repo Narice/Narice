@@ -3,7 +3,7 @@
 I like free and open-source software, safe systems and safe programming languages!  
 You can ask me about Elm and NixOS anytime, feel free to contact me at narice@tutanota.com 😁.
 
-### Things that I use
+### Things I use
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
