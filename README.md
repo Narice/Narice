@@ -22,4 +22,4 @@ You can ask me about Elm and NixOS anytime, feel free to contact me at narice@tu
 
 ### My stats! 😉
 [![Narice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narice&theme=shades-of-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narice&theme=shades-of-purple&show_icons=true&layout=compact&hide=javascript&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narice&theme=shades-of-purple&show_icons=true&layout=compact&hide=javascript,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
