@@ -21,5 +21,5 @@ You can ask me about Elm and NixOS anytime, feel free to contact me at nova@nowi
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### My stats! 😉
-[![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narice&theme=shades-of-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narice&theme=shades-of-purple&show_icons=true&layout=compact&hide=javascript,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=nova-nowiz&theme=shades-of-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nova-nowiz&theme=shades-of-purple&show_icons=true&layout=compact&hide=javascript,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
